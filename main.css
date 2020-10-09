@@ -1,0 +1,9 @@
+#login-panel {
+    height: 500px;
+    width: 500px;
+    background: bisque;
+}
+.panel {
+    font-size: 64px;
+    font-family: 'Times New Roman', Times, serif;
+}
